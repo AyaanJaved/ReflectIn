@@ -1,0 +1,36 @@
+# General Project Files
+*.iml
+.gradle
+.idea
+local.properties
+.DS_Store
+
+# Build Outputs
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+bin/
+test-results/
+
+# Kotlin & JVM
+*.class
+*.kotlin_module
+
+# iOS / Xcode Specific
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+DerivedData/
+*.xcworkspace/xcshareddata/
+
+# JetBrains IDE (IntelliJ, Android Studio, etc)
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/shelf
